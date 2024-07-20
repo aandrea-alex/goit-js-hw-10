@@ -1,0 +1,19 @@
+.modal-toggle {
+  display: none;
+}
+
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section-title {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
